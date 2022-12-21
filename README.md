@@ -1,9 +1,16 @@
-# Sanity Clean Content Studio
+# Web Dev Share
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+The place to share your ideas and expertise with the world. And if you want to, you can use it to promote your business, portfolio, blogs, and many more.
 
-Now you can do the following things:
+## Visit Site - https://web-dev-share.netlify.app/
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+
+## View Image
+![image](https://user-images.githubusercontent.com/86593756/208969708-e9a09ac2-1f60-4705-88a5-0bf215a3aee8.png)
+
+## Frontend Github Url
+https://github.com/saugat-rimal/web-dev-share-frontend
+
+
+ <!-- Backend Login Url -- https://webdevshare.sanity.studio/  -->
